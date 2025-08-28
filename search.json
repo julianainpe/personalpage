@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "students.html",
+    "href": "students.html",
+    "title": "Juliana Silveira",
+    "section": "",
+    "text": "Students\n\nComing soon"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "\nProjects\n",
+    "section": "",
+    "text": "Projects\n\n\n\n\n\n\n\nLAND-LTER (Agricultural Landscape Dynamics and Impacts on Biodiversity)\n\n\n2017– LAND-LTER is a Long-Term Ecological Research (LTER) site located in the Brazilian Cerrado since 2017. It is led by Professor Rosane Collevatti (UFG) and me. My contribution is related to spatial and landscape ecology analyses. Our objective is to identify how spatiotemporal variations in agricultural landscapes influence biodiversity, ecosystem functions, and ecosystem services. We also assess how agroecosystem management and restoration actions affect biodiversity and decision-making.\n\n\nFunding: CNPq, FAPEG   |   Status: in progress\n\n\n\n\n\n\n\n\nSpatiotemporal influence of landscape structure on soil microbiota diversity in Atlantic Forest\n\n\n2023–2025 This project identifies how landscape structure at different spatial and temporal scales influences the taxonomic and functional diversity of soil microbiota (fungi and bacteria) in Atlantic Forest landscapes, using metabarcoding (16S and ITS rRNA). Key questions include the role of habitat amount, heterogeneity, and disturbance in shaping microbial diversity, and differences between forest vs. matrix environments (pasture, agriculture, eucalyptus).\n\n\nFunding: UNESP CAPES/PRINT, FAPESP/CBioClima   |   Status: finished\n\n\n\n\n\n\n\n\nIntegrated framework for monitoring secondary forest dynamics in the Atlantic Forest\n\n\n2019–2023 This project generated an integrated and operational framework to monitor secondary forests at large scale. It combines in situ ecological indicators with orbital data to assess vegetation quality and forest dynamics. For the first time in Brazil, we developed a framework based on freely available satellite data for monitoring secondary forests, providing a functional and scalable alternative to specialized technologies such as LiDAR.\n\n\nFunding: FAPESP   |   Status: finished"
+  },
+  {
+    "objectID": "collaborators.html",
+    "href": "collaborators.html",
+    "title": "\nCollaborators\n",
+    "section": "",
+    "text": "Collaborators\n\n\n\n\n\n\n\nDr. Rosane Collevatti\n\n\nShe is an evolutionary geneticist and Full Professor at Universidade Federal de Goiás in Brazil and leader of Collevatti Lab. She has PhD in Ecology at University of Brasilia. Prof. Collevatti focuses her research on population genetics of Neotropical trees, with particular emphasis on geographical patterns in neutral, quantitative and adaptative variation in Cerrado tree species. Recent work also focuses on community phylogeny in the Neotropics.\n\n\n\n\n\n\n\n\nDr. Milton Cezar Ribeiro\n\n\nHe is Full Professor at Unesp/Rio Claro in Brazil and the leader of LEEC Lab (Laboratório de Ecologia Espacial e Conservação). He has a Master’s in Remote Sensing at INPE and PhD in Ecology at USP. He works with ecological and computational models, landscape ecology applied to conservation and restoration, and ecosystem services provision.\n\n\n\n\n\n\n\n\nDr. Duccio Rocchini\n\n\nHe is Full Professor at Alma Mater Studiorum University of Bologna. He attained his PhD in 2005, dealing with remote sensing applied to the study of plant communities. He collaborated with institutions such as U.S. Geological Survey, University of Nottingham, Ashoka Trust for Research in Ecology and the Environment, and University of California Los Angeles, before joining Fondazione Edmund Mach in Trento in 2009, promoting open source algorithms for computational, mathematical, spatial and theoretical ecology.\n\n\n\n\n\n\n\n\nDr. Mauricio Bacci Junior\n\n\nHe is Full Professor at Biosciences Institute, Unesp/Rio Claro in Brazil. He works with symbiosis and evolution, using leaf-cutter ants and microorganisms as study models, applying tools in genomics, systematics, phylogeny and molecular genetics."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Juliana Silveira",
+    "section": "",
+    "text": "Dr. Juliana Silveira dos Santos\n\n\nI’m a researcher in spatial ecology at INMA (Instituto Nacional da Mata Atlântica) in Santa Teresa, ES, Brazil. My research focuses on landscape ecology applied to agricultural landscapes and the use of remote sensing data and GIS tools for biodiversity conservation. I’m also co-leader of the GEODABI Lab (Laboratório de Geoprocessamento, Sensoriamento Remoto e Análise de Dados de Biodiversidade), created at INMA in 2025   \n\n\nAcademic Background\n\n\n\n\n🎓 PhD in Remote Sensing at National Institute for Space Research (INPE, Brazil) – 2014; Internship at Carleton University (CA)\n\n\n🎓 Master’s in Remote Sensing at Federal University of Rio Grande do Sul (CEPSRM/UFRGS, Brazil) – 2010; Internship at INPE\n\n\n🎓 Bachelor’s in Agricultural Technology at State University of Rio Grande do Sul (UERGS, Brazil) – 2007\n\n\n\n\nAbout Me\n\n\nAfter finishing my PhD, I held postdoctoral positions (2014-2025) at different universities in Brazil and abroad (Oregon State University, US and Bologna University, IT). In recent years, I have collaborated on Long-Term Ecological Research projects with LEEC Lab and Collevatti Lab. Together with these research groups, I have published manuscripts about landscape ecology, biodiversity conservation, and landscape genetics in the Atlantic Forest and Cerrado.  I have supervised master’s and PhD students in Brazil and have taught courses such as Remote Sensing and GIS applied to Ecology, and Landscape Ecology. My current research interests include spatial corridor modeling, defining priority areas for conservation and restoration, uncovering biodiversity patterns using remote sensing data, and prioritizing climate refuge areas based on landscape connectivity measures.  I’m always excited to collaborate with researchers and projects from anywhere. Feel free to reach out!\n\n\nConnect with Me\n\n\n🌐 My GitHub ✉️ juliana.silveira@inma.gov.br 📄 My CV"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "\nPublications\n",
+    "section": "",
+    "text": "Publications"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "\nPublications\n",
+    "section": "2025",
+    "text": "2025\n\nSilveira, Priscila; Santos, Juliana S. dos et al. The loss of an unknown biodiversity: Spatial gaps in plant survey and conservation in a Brazilian hotspot of biodiversity. Biological Conservation, 305, 111098. DOI: https://doi.org/10.1016/j.biocon.2025.111098\nMesquita, Gabryella de S.; Santos, Juliana S. dos et al. Agriculture cover and local vegetation structure shape Squamata’s diversity in agricultural landscapes in Brazilian Cerrado. Landscape Ecology, 40, 85. DOI: https://doi.org/10.1007/s10980-025-02096-y\nSantos, Juliana S. dos et al. Landscape structure coupled to instream features shape freshwater biodiversity in Cerrado agricultural landscapes. Perspectives in Ecology and Conservation, 23, 1-9. DOI: https://doi.org/10.1016/j.pecon.2025.03.002\nCastellano, Gabriel R.; Santos, Juliana S. dos et al. Rare Earth Elements in Tropical Agricultural Soils: Assessing the Influence of Land Use, Parent Material, and Soil Properties. Agronomy-Basel, 15, 1741-17. DOI: https://doi.org/10.3390/agronomy15071741\nVieira, Lucas D.; Santos, Juliana S. dos et al. Metagenomics of soil microbiome uncovers community homogenization in agricultural landscapes in Cerrado. Agriculture Ecosystems & Environment, 393, 109807. DOI: https://doi.org/10.1016/j.agee.2025.109807"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "\nPublications\n",
+    "section": "2024",
+    "text": "2024\n\nLamounier, Wanderson L.; Santos, Juliana S. dos et al. Defining priority areas for conservation based on multispecies functional connectivity. Biological Conservation, 290, 110438. DOI: https://doi.org/10.1016/j.biocon.2023.110438\nPolli, Daiana J.; Santos, Juliana S. dos et al. Mammal diversity responses to anthropic, environmental, and seasonal changes within Caatinga seasonal dry forest landscapes. Biotropica, 56, 1-12. DOI: https://doi.org/10.1111/btp.13337"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "\nPublications\n",
+    "section": "2023",
+    "text": "2023\n\nMartello, Felipe; Santos, Juliana S. dos et al. Landscape structure shapes the diversity of plant reproductive traits in agricultural landscapes in the Brazilian Cerrado. Agriculture Ecosystems & Environment, 341, 108216. DOI: https://doi.org/10.1016/j.agee.2022.108216\nSilveira, Priscila; Santos, Juliana S. dos et al. Amount and isolation of aquatic habitat drive anuran diversity in agricultural landscapes in the Brazilian Cerrado. Landscape Ecology, 1, 1. DOI: https://doi.org/10.1016/j.agee.2022.108216"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "\nPublications\n",
+    "section": "2022",
+    "text": "2022\n\nSilveira dos Santos, Juliana; Vitorino, Luciana Cristina; Fabrega Gonçalves, Renata; Corrêa Côrtes, Marina; Souza Cruz Alves, Rafael; Cezar Ribeiro, Milton; Garcia Collevatti, Rosane. Matrix dominance and landscape resistance affect genetic variability and differentiation of an Atlantic Forest pioneer tree. Landscape Ecology, 1, 1-21, 2022. DOI: https://doi.org/10.1007/s10980-022-01498-6\nDe Sousa, Fernanda G.; Santos, Juliana S. dos et al. Natural habitat cover and fragmentation per se influence orchid-bee species richness in agricultural landscapes in the Brazilian Cerrado. Apidologie, 53, 20. DOI: https://doi.org/10.1007/s13592-022-00925-6\nTonella, Lívia H.; Santos, Juliana S. dos et al. Neotropical freshwater fishes: A dataset of occurrence and abundance of freshwater fishes in the Neotropics. Ecology, 103, 1. DOI: https://doi.org/10.1002/ecy.3713"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "\nPublications\n",
+    "section": "2021",
+    "text": "2021\n\nSantos, Juliana; Silva’Neto, Carlos M.; Castro Silva, Thiago; Nascimento Siqueira, Karoline; Ribeiro, Milton Cezar; Garcia Collevatti, Rosane. Landscape structure and local variables affect plant community diversity and structure in a Brazilian agricultural landscape. Biotropica, 54, 1-12, 2021. DOI: https://doi.org/10.1111/btp.13054\nSantos, Juliana Silveira; Miziara, Fausto; Fernandes, Hayla da Silva; Miranda, Renato Cezar; Collevatti, Rosane Garcia. Technification in Dairy Farms May Reconcile Habitat Conservation in a Brazilian Savanna Region. Sustainability, 13, 5606-5615, 2021. DOI: https://doi.org/10.3390/su13105606\nSantos, Juliana S. dos et al. Landscape ecology in the Anthropocene: an overview for integrating agroecosystems and biodiversity conservation. Perspectives in Ecology and Conservation, 19, 21-32. DOI: https://doi.org/10.1016/j.pecon.2020.11.002\nAmaral, Tatiana S. do; Santos, Juliana S. dos et al. Agricultural Landscape Heterogeneity Matter: Responses of Neutral Genetic Diversity and Adaptive Traits in a Neotropical Savanna Tree. Frontiers in Genetics, 11, 1. DOI: https://doi.org/10.3389/fgene.2020.606222\nFalcão, Fábio; Dodonov, Pavel; Caselli, Christini B.; Dos Santos, Juliana Silveira; Faria, Deborah. Landscape structure shapes activity levels and composition of aerial insectivorous bats at different spatial scales. Biodiversity and Conservation (Dordrecht. Online), 30, 1-20, 2021. DOI: https://doi.org/10.1007/s10531-021-02210-x\nSilva, Rogério R.; Martello, Felipe; Feitosa, Rodrigo Machado; Silva, Otávio Guilherme M.; Do Prado, Lívia Pires; Brandão, Carlos Roberto F.; Zoppas de Albuquerque, Emília; Morini, Maria Santina C.; Delabie, Jacques Hubert Charles; Dos Santos Monteiro, Erison Carlos; Emanuel Oliveira Alves, Agripino; Wild, Alexander L.; Christianini, Alexander V.; Arnhold, Alexandre; Casadei Ferreira, Alexandre; Machado Oliveira, Aline; Santos, Alvaro D.; Alvaro, Galbán; De Oliveira, Amanda Aparecida; Santos, J. S.; et al. Atlantic ants: a data set of ants in Atlantic Forests of South America. Ecology, 112, 1, 2021. DOI: https://doi.org/10.1002/ecy.3580\nIamara’Nogueira, Joice; Targhetta, Natália; Allain, Gina; Gambarini, Adriano; Pinto, Alessandra R.; Rui, Ana Maria; Araújo, Andréa C.; Lopes, Ariadna; Pereira’Silva, Brenda; De Camargo, Bruna Bertagni; Machado, Caio Graco; Missagia, Caio; Scultori, Carolina; Boscolo, Danilo; Fischer, Erich; Araújo’Oliveira, Evellyn Silva; Gava, Henrique; Ferreira Paulino’Neto, Hipólito; Machado, Isabel Cristina; Santos, J. S.; et al. Atlantic pollination: a data set of flowers and interaction with nectar-feeding vertebrates from the Atlantic Forest. Ecology, 1, 1-2, 2021. DOI: https://doi.org/10.1002/ecy.3595"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "\nPublications\n",
+    "section": "2020",
+    "text": "2020\n\nPüttker, Thomas; Santos, Juliana S. dos et al. Indirect effects of habitat loss via habitat fragmentation: A cross-taxa analysis of forest-dependent species. Biological Conservation, 241, 108368. DOI: https://doi.org/10.1016/j.biocon.2019.108368\nSantos, Juliana S.; et al. Characterising the spatial distribution of opportunities and constraints for land sparing in Brazil. Scientific Reports, 10, 1946. DOI: https://doi.org/10.1038/s41598-020-58770-5\nCollevatti, Rosane Garcia; Dos Santos, Juliana Silveira; Rosa, Fernanda Fraga; Amaral, Tatiana S.; Chaves, Lazaro José; Ribeiro, Milton Cezar. Multi-Scale Landscape Influences on Genetic Diversity and Adaptive Traits in a Neotropical Savanna Tree. Frontiers in Genetics, 11, 1, 2020. DOI: https://doi.org/10.3389/fgene.2020.00259\nSouza, Thamyris B.; França, Filipe M.; Barlow, Jos; Dodonov, Pavel; Santos, Juliana S.; Faria, Deborah; Baumgarten, Júlio E. The relative influence of different landscape attributes on dung beetle communities in the Brazilian Atlantic forest. Ecological Indicators, 117, 106534, 2020. DOI: https://doi.org/10.1016/j.ecolind.2020.106534\nDa Rosa, Clarissa Alves; Ribeiro, Bruno R.; Bejarano, Vanesa; Puertas, Fernando Henrique; Bocchiglieri, Adriana; Dos Santos Barbosa, Adriana Loeser; Chiarello, Adriano Garcia; Paglia, Adriano Pereira; Pereira, Adriele Aparecida; De Souza Moreira, Adryelle Francisca; De Souza, Agnis Cristiane; Pellegrin, Aiesca; Gatica, Ailin; Medeiro, Akyllan Zoppi; Pereira, Alan Deivid; Braz, Alan Gerhardt; Yanosky, Alberto; Valenzuela, Alejandro Eduardo Jorge; Bertassoni, Alessandra; Santos, J. S.; et al. Neotropical Alien Mammals: a data set of occurrence and abundance of alien mammals in the Neotropics. Ecology, 101, 1-1, 2020. DOI: https://doi.org/10.1002/ecy.3115\nNagy’Reis, Mariana; Oshima, Júlia Emi de Faria; Kanda, Claudia Zukeran; Palmeira, Francesca Belem Lopes; Melo, Fabiano Rodrigues; Morato, Ronaldo Gonçalves; Bonjorne, Lilian; Magioli, Marcelo; Leuchtenberger, Caroline; Rohe, Fabio; Lemos, Frederico Gemesio; Martello, Felipe; Alves’Eigenheer, Milene; Silva, Rafaela Aparecida; Silveira dos Santos, Juliana; Priante, Camila Fátima; Bernardo, Rodrigo; Rogeri, Patricia; Assis, Julia Camara; Gaspar, Lucas Pacciullio; et al. Neotropical Carnivores: a data set on carnivore distribution in the Neotropics. Ecology, 101, 1-2, 2020. DOI: https://doi.org/10.1002/ecy.3128"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "\nPublications\n",
+    "section": "2019",
+    "text": "2019\n\nRamos, Flavio N.; Santos, Juliana S. dos et al. Atlantic Epiphytes: a data set of vascular and non-vascular epiphyte plants and lichens from the Atlantic Forest. Ecology, 100, e02541. DOI: https://doi.org/10.1002/ecy.2541\nSantos, Paloma M.; Santos, Juliana S. dos et al. Neotropical Xenarthrans: a data set of occurrence of xenarthran species in the Neotropics. Ecology, e02663. DOI: https://doi.org/10.1002/ecy.2663"
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "\nPublications\n",
+    "section": "2018",
+    "text": "2018\n\nCastro, Ana; Santos, Juliana S. dos et al. The Effects of Gliricidia-Derived Biochar on Sequential Maize and Bean Farming. Sustainability, 10, 578. DOI: https://doi.org/10.3390/su10030578\nMendes, Maiara S.; Santos, Juliana S. dos et al. Look down-there is a gap-the need to include soil data in Atlantic Forest restoration. Restoration Ecology, 26, 1-10. DOI: https://doi.org/10.1111/rec.12875"
+  },
+  {
+    "objectID": "publications.html#section-8",
+    "href": "publications.html#section-8",
+    "title": "\nPublications\n",
+    "section": "2017",
+    "text": "2017\n\nRibeiro, John W.; Santos, Juliana S. dos et al. LandScape Corridors (LScorridors): a new software package for modelling ecological corridors based on landscape patterns and species requirements. Methods in Ecology and Evolution, 8, 1425-1432. DOI: https://doi.org/10.1111/2041-210X.12750\nBoscolo, Danilo; Santos, Juliana S. dos et al. Positive responses of flower visiting bees to landscape heterogeneity depend on functional connectivity levels. Perspectives in Ecology and Conservation, 15, 18-24. DOI: https://doi.org/10.1016/j.pecon.2017.03.002"
+  },
+  {
+    "objectID": "publications.html#section-9",
+    "href": "publications.html#section-9",
+    "title": "\nPublications\n",
+    "section": "2016",
+    "text": "2016\n\nLatawiec, Agnieszka E.; Santos, Juliana S. dos et al. Natural regeneration and biodiversity: a global meta-analysis and implications for spatial planning. Biotropica, 48, 844-855. DOI: https://doi.org/10.1111/btp.12386\nStrassburg, Bernardo B. N.; Santos, Juliana S. dos et al. The role of natural regeneration to ecosystem services provision and habitat availability: a case study in the Brazilian Atlantic Forest. Biotropica, 48, 890-899. DOI: https://doi.org/10.1111/btp.12393"
+  },
+  {
+    "objectID": "publications.html#section-10",
+    "href": "publications.html#section-10",
+    "title": "\nPublications\n",
+    "section": "2014-2013",
+    "text": "2014-2013\n\nSantos, J. S.; et al. Identificação da dinâmica espaço-temporal para estimar área cultivada de soja a partir de imagens MODIS no Rio Grande do Sul. Revista Brasileira de Engenharia Agrícola e Ambiental, 18, 54-63. DOI: https://doi.org/10.1590/S1415-43662014000100008\nGarcia, L. C.; Santos, J. S.; et al. Restoration Challenges and Opportunities for Increasing Landscape Connectivity under the New Brazilian Forest Act. Natureza e Conservação, 2, 181-185. DOI: http://dx.doi.org/10.4322/natcon.2013.028"
+  },
+  {
+    "objectID": "publications.html#section-11",
+    "href": "publications.html#section-11",
+    "title": "\nPublications\n",
+    "section": "2009",
+    "text": "2009\n\nSantos, J. S.; et al. Identificação de áreas alagadas no Bioma Pantanal - Brasil - utilizando dados multitemporais TERRA/MODIS. Geografia (Rio Claro), 34, 745-755. DOI: https://www.periodicos.rc.biblioteca.unesp.br/index.php/ageteo/article/view/4864"
+  }
+]
